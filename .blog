@@ -1,0 +1,17 @@
+{
+  "title": "Blog Title",
+  "dateFormat": "MMMM DD, YYYY",
+  "postPerPage": 3,
+  "description": "This is a sample blog template. You may not define any description at all. But, you can do here...",
+  "topics": [
+    "topic-a",
+    "topic-b",
+    "topic-c"
+  ],
+  "social": {
+    "twitter": "someTwitterHandle",
+    "linkedin": "https://www.linkedin.com/in/some-name-0000000"
+  },
+  "analyticsId": "UA-2075101-7",
+  "disqusId": "pushed-to"
+}
