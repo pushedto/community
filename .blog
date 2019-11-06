@@ -1,16 +1,14 @@
 {
-  "title": "Blog Title",
+  "title": "pushed.to community blog",
   "dateFormat": "MMMM DD, YYYY",
   "postPerPage": 3,
-  "description": "This is a sample blog template. You may not define any description at all. But, you can do here...",
+  "description": "This blog contains news and tutorials about the pushed.to community.",
   "topics": [
-    "topic-a",
-    "topic-b",
-    "topic-c"
+    "tutorial",
+    "news"
   ],
   "social": {
-    "twitter": "someTwitterHandle",
-    "linkedin": "https://www.linkedin.com/in/some-name-0000000"
+    "twitter": "TheBloggingDev"
   },
   "analyticsId": "UA-2075101-7",
   "disqusId": "pushed-to"
